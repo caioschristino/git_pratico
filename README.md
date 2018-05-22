@@ -1,3 +1,2 @@
-Ok
 
-Alteração Lucas.
+OK Lucas
